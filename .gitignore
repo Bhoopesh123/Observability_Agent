@@ -1,0 +1,19 @@
+.env
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
+# Node
+node_modules/
+.npm-cache/
+dist/
+
+# Local server logs
+server*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
